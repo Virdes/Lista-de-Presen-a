@@ -1,5 +1,5 @@
-Ola pessoal, mais um projetinho realizado.
+Ola pessoal, esta é uma pequena versão atualizada deste projeto.
 
-Dessa vez é uma simples lista de presença onde inserimos o nome do aluno e este nome é agregado abaixo de forma dinâmica. Este projeto tem como base o curso discovery da Rocketseat.
+Fico muito feliz em ter usado TypeScript neste projeto, sendo assim, a mudança realizada no mesmo.
 
-Neste projeto usei HTML / CSS / JavaScript / React
+Neste projeto usei HTML / CSS / JavaScript / React / TypeScript
